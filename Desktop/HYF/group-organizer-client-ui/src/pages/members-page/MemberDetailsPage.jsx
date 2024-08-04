@@ -9,5 +9,4 @@ export const MemberDetailsPage = () => {
         <h3>details for member {params.id}</h3>
     </div>
     );
-
 };
