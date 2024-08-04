@@ -1,0 +1,16 @@
+.nav-bar {
+ background-color: rgb(210, 163, 253);
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.nav-list-item {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
