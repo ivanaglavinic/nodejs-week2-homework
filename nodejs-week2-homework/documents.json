@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Used Apple Airpods Pro",
+    "price": "120",
+    "category": "Electronics",
+    "condition": "Good",
+    "description": "Noise cancellation works perfectly, some wear on case"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M2",
+    "price": "850",
+    "category": "Electronics",
+    "condition": "Excellent",
+    "description": "Barely used, still has warranty until 2025"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 14 Pro",
+    "price": "600",
+    "category": "Electronics",
+    "condition": "Good",
+    "description": "Minor scratches on back, screen protector applied since day one"
+  }
+]
